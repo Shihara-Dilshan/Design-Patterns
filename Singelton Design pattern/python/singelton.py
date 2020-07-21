@@ -1,3 +1,6 @@
+# reference : https://stackoverflow.com/questions/674304/why-is-init-always-called-after-new
+# answered by vartec
+
 def singleton(cls):
     instances = {}
 
